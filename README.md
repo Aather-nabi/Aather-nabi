@@ -6,7 +6,7 @@
 
 <!-- TYPING ANIMATION TITLE -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Aather+Nabi+Shiekh;AI%2FML+%26+Data+Science+Enthusiast;Machine+Learning+Developer;Data+Science+Explorer+%F0%9F%94%AE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=999999999&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Aather+Nabi+Shiekh+%F0%9F%94%AE" />
 </h1>
 
 ---
