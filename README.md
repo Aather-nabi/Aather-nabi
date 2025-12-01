@@ -54,7 +54,14 @@ I'm **Aather Nabi Shiekh**, an **AI/ML & Data Science enthusiast** building inte
 
 ---
 
+
+
 ## 🔥 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aather-nabi&bg_color=000000&color=39ff14&line=39ff14&point=ffffff&area=true&hide_border=true)
+
+
+
 
 
 ## 🏆 Most Used Languages  
